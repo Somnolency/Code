@@ -1,0 +1,3 @@
+"D:\Jetbrain\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MarixTransport.dir/objects.a
+D:\VScode_MinGw\mingw64\bin\ar.exe cr CMakeFiles\MarixTransport.dir/objects.a @CMakeFiles\MarixTransport.dir\objects1.rsp
+D:\VScode_MinGw\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\MarixTransport.dir/objects.a -Wl,--no-whole-archive  -o MarixTransport.exe -Wl,--out-implib,libMarixTransport.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MarixTransport.dir\linklibs.rsp

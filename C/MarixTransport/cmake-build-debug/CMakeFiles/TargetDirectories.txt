@@ -1,0 +1,3 @@
+D:/C/CLion/MarixTransport/cmake-build-debug/CMakeFiles/MarixTransport.dir
+D:/C/CLion/MarixTransport/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C/CLion/MarixTransport/cmake-build-debug/CMakeFiles/rebuild_cache.dir
