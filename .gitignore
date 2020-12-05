@@ -1,0 +1,13 @@
+/cmake-build-debug
+/.vs
+/Debug
+/Release
+/x64
+*.lnp
+*.M51
+*.plg
+*.uvopt
+*.bac
+/keilProject
+!*.c
+/cmake-build-debug-mingw
